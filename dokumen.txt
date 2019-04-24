@@ -1,2 +1,7 @@
 Pertama kontrib nambahin teks ini,
 lalu di push ke reponya dia yang udah d fork dari atjeprahmat...
+----
+perubahan ini setelah di cek oleh admin ya,
+tadi ngerubah rubah brach kan,
+--
+sekarang ini tambahan dari admin supaya si kontributor nambahin apa yang di minta
