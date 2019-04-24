@@ -5,3 +5,8 @@ perubahan ini setelah di cek oleh admin ya,
 tadi ngerubah rubah brach kan,
 --
 sekarang ini tambahan dari admin supaya si kontributor nambahin apa yang di minta
+
+
+------------------------
+MENGGUNAKAN TOMBOL PULL REQUEST
+MAKA KITA TAMBAHKAN FILE INI LALU KITA AKAN PUSH LAGI KE REPONYA KONTRIBUTOR YA...
